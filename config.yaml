@@ -1,6 +1,6 @@
-baseURL: "https://rashmi29.github.io"
+baseURL: "https://prajyotkcsu.github.io"
 languageCode: "en-us"
-title: "Rashmi Patel"
+title: "Prajyot Karnik"
 theme: master
 
 Paginate: 3
@@ -95,7 +95,7 @@ params:
   hero:
     enable: true
     intro: "Hi there! I'm "
-    title: "Rashmi Patel"
+    title: "Prajyot Karnik"
     #subtitle: 
     content: "I am a highly experienced Software Test engineer and Automation Test Architect with a distinguished track record of over 6 years in IT software development and testing. Currently I am pursuing my Master's in Computer Science from California State University, East Bay."
     image: "images/me_.jpeg"
@@ -107,7 +107,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://github.com/rashmi29
+          url: https://github.com/prajyotkcsu
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/rashmi-p-patel/
         # - icon: fab fa-instagram
@@ -279,7 +279,7 @@ params:
         image: /images/projects/Project1-Selenium-TDD.png
         # featured:
         #   name: Click here to know more!
-        #   link: https://github.com/rashmi29/Selenium-AUT-Framework
+        #   link: https://github.com/prajyotkcsu/Selenium-AUT-Framework
         badges:
           - "Selenium-webdriver"
           - "TestNG"
@@ -290,7 +290,7 @@ params:
           #- icon: fa fa-envelope
           #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/rashmi29/Selenium-AUT-Framework
+            url: https://github.com/prajyotkcsu/Selenium-AUT-Framework
           # - icon: fab fa-twitter
           #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
@@ -299,7 +299,7 @@ params:
         image: /images/projects/Project2-Selenium-BDD.png
         featured:
           # name: Click here to know more!
-          # link: https://github.com/rashmi29/BDD_AUT_Framework
+          # link: https://github.com/prajyotkcsu/BDD_AUT_Framework
         badges:
           - "Selenium-webdriver"
           - "Cucumber"
@@ -309,14 +309,14 @@ params:
           - "Extent-report"
         links:
           - icon: fab fa-github
-            url: https://github.com/rashmi29/BDD_AUT_Framework
+            url: https://github.com/prajyotkcsu/BDD_AUT_Framework
 
       - title: Web application automation - Protractor
         content: This is hybrid automation framework. This can be used to automate application developed using js based frontend frameworks like angular/reactjs to handle asynchronous behaviour properly.
         image: /images/projects/Project3-Protractor.png
         # featured:
         #   name: Click here to know more!
-        #   link: https://github.com/rashmi29/Protractor-AUT-Framework
+        #   link: https://github.com/prajyotkcsu/Protractor-AUT-Framework
         badges:
           - "Protractor"
           - "Jasmine"
@@ -325,7 +325,7 @@ params:
           - "Angular"
         links:
           - icon: fab fa-github
-            url: https://github.com/rashmi29/Protractor-AUT-Framework
+            url: https://github.com/prajyotkcsu/Protractor-AUT-Framework
 
       - title: Excel comparator project
         content: This project is created to test two excel files cell by cell. This compares each cell and mark it as red if cell value is not matching. This utility was developed to test 12 excel reports which were present in legacy application and were newly incorporated in angular web application.
@@ -338,7 +338,7 @@ params:
 
         links:
           - icon: fab fa-github
-            url: https://github.com/rashmi29/Excel-comparator-Project
+            url: https://github.com/prajyotkcsu/Excel-comparator-Project
 
       - title: RestAPI automation using Postman collections
         content: This project is to automate rest api testing using postman collection. This postman collections can be execute from commandline newman tool which execute all test cases written in 'Test' page and  get api status before each release.
@@ -352,7 +352,7 @@ params:
           - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/rashmi29/Postman-collection-practice
+            url: https://github.com/prajyotkcsu/Postman-collection-practice
 
   #Contact
   contact:
@@ -364,7 +364,7 @@ params:
   footer:
     recentPosts: false
     socialNetworks:
-      github: https://github.com/rashmi29
+      github: https://github.com/prajyotkcsu
       linkedin: https://www.linkedin.com/in/rashmi-p-patel/
     # twitter: https://twitter.com
       # instagram: https://www.instagram.com/
